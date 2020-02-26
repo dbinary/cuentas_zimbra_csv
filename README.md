@@ -1,4 +1,4 @@
-# cuentas_zimbra_csv
+# Generador de script zmprov para Zimbra
 Script para generar archivo zmprov con cuentas a crear para Zimbra Collaboration Plantform y password autogenerado
 
 ### Uso
